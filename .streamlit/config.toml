@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#167b72"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f2f6f5"
+textColor = "#18302f"
+borderColor = "#dbe5e3"
+showWidgetBorder = true
+baseRadius = "medium"
+buttonRadius = "medium"
+font = "sans-serif"
+paddingTop = "1.5rem"
+paddingBottom = "2rem"
+
+[server]
+# Keep uploads manageable for the memory-based Community Cloud prototype.
+maxUploadSize = 50

@@ -1,0 +1,11 @@
+Order ID,Date,Product,Quantity,Unit Price,Total Sales,Region
+ORD-1001,2026-09-01,Tea Pack,12,180,2160,Delhi
+ORD-1002,2026-09-01,Coffee Jar,5,320,1600,Mumbai
+ORD-1003,2026-09-02,Tea Pack,8,180,1440,Delhi
+ORD-1004,2026-09-03,Snack Box,10,95,950,Jaipur
+ORD-1005,2026-09-04,Coffee Jar,3,320,900,Mumbai
+ORD-1006,not-a-date,Snack Box,-2,95,-190,Jaipur
+ORD-1007,2026-09-05,Tea Pack,4,-180,-720,Delhi
+ORD-1008,2026-09-06,,6,250,1500,Pune
+ORD-1009,2026-09-06,Tea Pack,12,180,2160,Delhi
+ORD-1009,2026-09-06,Tea Pack,12,180,2160,Delhi

@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+# Local business inputs; keep only the intentionally bundled mock demo.
+*.csv
+!/sample_sales.csv
+*.xlsx
+*.xlsm
+*.xls
+.env
